@@ -29,6 +29,15 @@ This is a simple yet elegant **Chatbot UI** built with **HTML, CSS, and JavaScri
 - **Chat history storage** for better user interaction.
 - **Voice-to-text support** for a hands-free chat experience.
 
+ Installation  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/Lokesh922003/-Building-a-Support-Agent-Chatbot-for-CDP
+2. Navigate to the project directory:
+    ```bash
+    cd Web Application Mimicking Google Sheets
+3. Open index.html in a browser to run the application.
+
 ## License
 This project is **free to use** for learning and development purposes.
 
